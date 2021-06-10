@@ -46,6 +46,7 @@ a {
 .news-list {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .news__item {
     width: 370px;
