@@ -7,7 +7,7 @@ h1 {
    text-align: center;
    color: yellow;
    font-family: Marck Script, serif;
-   text-shadow: 5px 6px 20px black;
+   text-shadow: 5px 6px 20px yellow;
 }
 
 p {
@@ -306,7 +306,10 @@ footer {
 }
 
 .fon {                                           
-    background: #00dbdb;
+    background: #003f8f;
+    background-image: url(../Images/strap.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
 }
 
 b {
